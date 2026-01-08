@@ -1,7 +1,5 @@
 # Euclidean Approximate Attention with Linear-Time Distance Estimation
 
-**Masters Thesis Experiment**
-
 ## Hypothesis
 
 Linear-time distance approximations (based on [Indyk et al., 2019](https://arxiv.org/abs/1906.00339)) can produce useful attention patterns, improve scalability, and enable longer contexts.
